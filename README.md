@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning PHP Laravel.
 - 💞️ I’m looking to collaborate on creating my portfolio dashboard.
 - 📫 How to reach me -> when im not busy.
+- a new line of code
 
 <!---
 AminudinKahar/AminudinKahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
